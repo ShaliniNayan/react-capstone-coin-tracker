@@ -76,11 +76,6 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 - A code editor (preferably VSCode)
-- A browser
-- Node.js (version 12 or higher to run javascript files locally)
-- LiveServer (to load javascript modules)
-- npm (version 6 or higher) or Yarn (version 1.22 or higher)
-
 
 ### Setup
 Clone this repository to your desired folder:
