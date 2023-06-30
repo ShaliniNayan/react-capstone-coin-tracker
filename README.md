@@ -1,3 +1,4 @@
+react-capstone-coin-tracker
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -62,8 +63,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 > Below are important links to live project .
-- [Live Demo Link](https://cointracker-smct.onrender.com)
-- [Loom Video Recording](https://www.loom.com/share/0aae677513954484ba479aed88a1fb37?sid=8e89c07f-246a-4c5d-81a4-9cb2deaf0b33)
+- [Live Demo Link](https://cointracker-smct.onrender.com/)
+- [Loom Video Recording](https://www.loom.com/share/0aae677513954484ba479aed88a1fb37?sid=56fbb9df-334a-4e76-9c32-b361fc8e51e8)
 
 
 <!-- GETTING STARTED -->
@@ -105,7 +106,7 @@ To run the project, execute the following command:
 
 To run tests, run the following command:
 
-- run ```npm test```
+- run ```npm run test```
 
 
 
