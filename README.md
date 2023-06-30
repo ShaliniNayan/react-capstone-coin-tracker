@@ -62,8 +62,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 > Below are important links to live project .
-- [Live Demo Link]()
-- [Loom Video Recording]()
+- [Live Demo Link](https://cointracker-smct.onrender.com)
+- [Loom Video Recording](https://www.loom.com/share/0aae677513954484ba479aed88a1fb37?sid=8e89c07f-246a-4c5d-81a4-9cb2deaf0b33)
 
 
 <!-- GETTING STARTED -->
@@ -76,11 +76,6 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 - A code editor (preferably VSCode)
-- A browser
-- Node.js (version 12 or higher to run javascript files locally)
-- LiveServer (to load javascript modules)
-- npm (version 6 or higher) or Yarn (version 1.22 or higher)
-
 
 ### Setup
 Clone this repository to your desired folder:
