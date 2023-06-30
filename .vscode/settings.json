@@ -1,4 +1,12 @@
 {
-  "cSpell.ignoreWords": ["Sakwa", "fontawesome", "fortawesome", "nameid"],
+  "cSpell.ignoreWords": [
+    "Sakwa",
+    "csupply",
+    "fontawesome",
+    "fortawesome",
+    "msupply",
+    "nameid",
+    "tsupply"
+  ],
   "cSpell.words": ["apos"]
 }
