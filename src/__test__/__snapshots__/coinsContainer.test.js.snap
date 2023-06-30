@@ -1,0 +1,116 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CoinContainer Should renders correctly 1`] = `
+<div>
+  <div
+    class="search"
+  >
+    <input
+      placeholder="Search Coins"
+      type="search"
+      value=""
+    />
+  </div>
+  <div
+    class="coins-wrap"
+  >
+    <h2
+      class="title"
+    >
+      Available Coins
+    </h2>
+    <div
+      class="collections"
+    >
+      <a
+        class="single-collection"
+        href="/details"
+      >
+        <div>
+          <div>
+            <h2
+              class="coin-name"
+            >
+              Crypto Name =
+               
+              Bitcoin
+            </h2>
+          </div>
+          <div
+            class="coin-info-wrap"
+          >
+            <span>
+              Symbol =
+               
+              BTC
+            </span>
+            <span>
+              Price =
+               
+              30048.40
+            </span>
+            <span
+              class="ranking"
+            >
+               
+              Crypto Ranking =
+              #1
+              <i>
+                <img
+                  alt=""
+                  class="stats-icon"
+                  src="stats1.png"
+                />
+              </i>
+            </span>
+          </div>
+        </div>
+      </a>
+      <a
+        class="single-collection"
+        href="/details"
+      >
+        <div>
+          <div>
+            <h2
+              class="coin-name"
+            >
+              Crypto Name =
+               
+              Ethereum
+            </h2>
+          </div>
+          <div
+            class="coin-info-wrap"
+          >
+            <span>
+              Symbol =
+               
+              ETH
+            </span>
+            <span>
+              Price =
+               
+              1857.17
+            </span>
+            <span
+              class="ranking"
+            >
+               
+              Crypto Ranking =
+              #2
+              <i>
+                <img
+                  alt=""
+                  class="stats-icon"
+                  src="stats1.png"
+                />
+              </i>
+            </span>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+`;
