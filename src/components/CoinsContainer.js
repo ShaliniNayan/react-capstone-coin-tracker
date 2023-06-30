@@ -3,8 +3,8 @@ import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
 import fetchCoins from '../redux/ConfigAPI/configAPI';
 import Coin from './Coins';
+
 import '../CSS/Coins.css';
-import searchIcon from '../assets/image/search-icon.png';
 
 const CoinsContainer = () => {
   const coins = useSelector((state) => state.coins);
@@ -31,9 +31,6 @@ const CoinsContainer = () => {
             setSearch(e.target.value);
           }}
         />
-        <i>
-          <img src={searchIcon} alt="" />
-        </i>
       </div>
       <div className="coins-wrap">
         <h2 className="title">Available Coins</h2>
