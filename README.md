@@ -62,8 +62,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 > Below are important links to live project .
-- [Live Demo Link]()
-- [Loom Video Recording]()
+- [Live Demo Link](https://cointracker-smct.onrender.com)
+- [Loom Video Recording](https://www.loom.com/share/0aae677513954484ba479aed88a1fb37?sid=ca4b12ee-8655-423f-83ad-b1dfd9996418)
 
 
 <!-- GETTING STARTED -->
