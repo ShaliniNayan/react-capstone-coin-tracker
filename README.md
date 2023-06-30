@@ -94,7 +94,7 @@ git clone from ```git@github.com:ShaliniNayan/react-capstone-coin-tracker.git```
 
 Install this project with:
 
-- run ```cd react-capstone-metrics ``` to enter the project folder
+- run ```cd react-capstone-coin-tracker ``` to enter the project folder
 - run ```npm i``` to install all dependencies
 
 
