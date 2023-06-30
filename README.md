@@ -1,3 +1,4 @@
+react-capstone-coin-tracker
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -62,8 +63,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 > Below are important links to live project .
-- [Live Demo Link]()
-- [Loom Video Recording]()
+- [Live Demo Link](https://cointracker-smct.onrender.com/)
+- [Loom Video Recording](https://www.loom.com/share/0aae677513954484ba479aed88a1fb37?sid=56fbb9df-334a-4e76-9c32-b361fc8e51e8)
 
 
 <!-- GETTING STARTED -->
@@ -76,11 +77,6 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 - A code editor (preferably VSCode)
-- A browser
-- Node.js (version 12 or higher to run javascript files locally)
-- LiveServer (to load javascript modules)
-- npm (version 6 or higher) or Yarn (version 1.22 or higher)
-
 
 ### Setup
 Clone this repository to your desired folder:
